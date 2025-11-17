@@ -1,0 +1,29 @@
+Physical 3815 Smartphone_iPhone12 799.99 1 0.15kg
+Physical 5421 Laptop_DellXPS15 1299.99 5 2.1kg
+Physical 7293 Headphones_SonyWH1000XM4 349.99 20 0.3kg
+Physical 1047 Book_HarryPotterBoxSet 49.99 32 1.2kg
+Physical 8812 VideoGame_PlayStation5Bundle 599.99 8 4.5kg
+Physical 2168 Clothing_WomenSummerDress 29.99 27 0.35kg
+Physical 7542 Furniture_ModernDesk 249.99 7 18kg
+Physical 2721 Camera_CanonEOSRebelT7i 599.99 6 0.75kg
+Physical 1835 SmartHome_SmartThermostat 129.99 9 0.3kg
+Physical 2736 Watch_AppleWatchSeries7 349.99 4 0.1kg
+Physical 6428 VRHeadset_OculusQuest2 299.99 5 0.6kg
+Physical 9754 FitnessTracker_FitbitVersa3 159.99 15 0.05kg
+Physical 5819 CoffeeMachine_NespressoVertuo 129.99 12 3.8kg
+Physical 3489 Toy_LEGOStarWarsSet 79.99 25 0.8kg
+Digital 3768 Software_AdobeCreativeCloud 52.99 2.5GB
+Digital 4562 Movie_AvengersCollectionBluRay 39.99  12GB
+Digital 6231 eBook_SelfImprovementGuide 9.99 1MB
+Digital 3925 OnlineCourse_WebDevelopmentBootcamp 199.99 3 750MB
+Digital 2394 DigitalArt_PrintableArtBundle 19.99 150MB
+Digital 9642 eBook_FantasyNovel 9.99 1 3MB
+Digital 5186 MusicAlbum_RockClassics 7.49 100MB
+Digital 7004 OnlineCourse_DigitalMarketing 49.99 20 500MB
+Digital 1128 Movie_ThrillerCollection 12.99 1 8GB
+Digital 2057 Software_PhotoEditingSuite 39.99 300MB
+Digital 4315 VideoGame_ActionAdventure 29.99 10 2GB
+Digital 6543 Audiobook_SelfHelpGuide 19.99 250MB
+Digital 9381 StockPhotoPack_ProfessionalEdition 29.99 1.5GB
+Digital 8743 App_PersonalFinanceTracker 2.99 20MB
+1
